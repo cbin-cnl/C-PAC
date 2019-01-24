@@ -105,4 +105,5 @@ linux_openmp_64/plug_vol2surf.so
 linux_openmp_64/plug_volreg.so
 linux_openmp_64/plug_wavelets.so
 linux_openmp_64/plug_zeropad.so
+linux_openmp_64/qhull
 linux_openmp_64/R_io.so
